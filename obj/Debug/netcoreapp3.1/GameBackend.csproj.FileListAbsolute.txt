@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.AssemblyInfo.cs
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.exe
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.deps.json
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.runtimeconfig.json
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.runtimeconfig.dev.json
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.dll
+C:\Users\PC\source\repos\GameBeckend\bin\Debug\netcoreapp3.1\GameBackend.pdb
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.dll
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.pdb
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.genruntimeconfig.cache
+C:\Users\PC\source\repos\GameBeckend\obj\Debug\netcoreapp3.1\GameBackend.csprojAssemblyReference.cache
